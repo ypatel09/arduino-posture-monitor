@@ -1,4 +1,7 @@
 # Learning Log
+Here in the Learning Log, you will find the lessons I completed necessary for 
+the Posture Project, along with the progress of the project itself.
+
 
 ## Lesson 2 — Blink
 
