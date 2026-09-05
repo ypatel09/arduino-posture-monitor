@@ -6,4 +6,4 @@ My first Arduino project. I am building a posture monitoring device and document
 ## Arduino Lessons
 
 ### Lesson 2 — Blink
-Learned how to control an LED using Arduino and how the `delay()` function affects the timing of the LED.
+Learned how setup() and loop() work and how delay() controls timing. Experimented with changing delay(1000) to delay(500).
